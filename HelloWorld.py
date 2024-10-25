@@ -1,5 +1,5 @@
 print("Hellow World...")
-print ("Welcome to the world of programing...") 
+print("Welcome to the world of programing...") 
 a=500
 b=600
 c=a+b 
